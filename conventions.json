@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "Heroes Dutch Comic Con",
+    "location": {
+      "latitude": 52.08588616643259,
+      "longitude": 5.103343432290769,
+      "name": "Jaarbeurs Utrecht"
+    },
+    "description": "Have you always wanted to meet world-famous actors and Comic Artists or are you a fan of TV series, films, esports or Cosplay? Heroes Dutch Comic Con has it all, and more! Prepare for a great weekend full of entertainment, special encounters, share your passion with others or make new friends!"
+  },
+  {
+    "id": 2,
+    "name": "Heroes Made in Asia",
+    "location": {
+      "latitude": 51.2194,
+      "longitude": 4.4025,
+      "name": "Antwerp Expo"
+    },
+    "description": "A celebration of Asian pop culture, with a focus on anime, manga, video games, and music. Expect special guests, panels, workshops, and a bustling marketplace."
+  },
+  {
+    "id": 3,
+    "name": "Animecon",
+    "location": {
+      "latitude": 52.0705,
+      "longitude": 4.3041,
+      "name": "World Forum The Hague"
+    },
+    "description": "A convention dedicated to anime, manga, and Japanese culture. Featuring screenings, workshops, cosplay contests, and a vibrant dealer's hall."
+  },
+  {
+    "id": 4,
+    "name": "Elfia Haarzuilens",
+    "location": {
+      "latitude": 52.0443,
+      "longitude": 5.1673,
+      "name": "Kasteel Haarzuilens"
+    },
+    "description": "A magical experience set in a historic castle, with a focus on fantasy, medieval times, and LARPing. Expect elaborate costumes, live music, and enchanting atmosphere."
+  },
+  {
+    "id": 5,
+    "name": "Elfia Archeon",
+    "location": {
+      "latitude": 50.9187,
+      "longitude": 5.9648,
+      "name": "Archen"
+    },
+    "description": "Another Elfia event, but with a different setting and vibe. Expect more fantasy, medieval, and LARPing fun."
+  },
+  {
+    "id": 6,
+    "name": "Comic Film and Manga Fest",
+    "location": {
+      "latitude": 51.9216,
+      "longitude": 4.4797,
+      "name": "Ahoy Rotterdam"
+    },
+    "description": "A convention celebrating comics, films, and manga. Featuring guest appearances, panels, workshops, and a vibrant marketplace."
+  },
+  {
+    "id": 7,
+    "name": "NishiCon",
+    "location": {
+      "latitude": 52.0859,
+      "longitude": 5.1033,
+      "name": "Jaarbeurs Utrecht"
+    },
+    "description": "A convention focused on Japanese culture, with a focus on anime, manga, video games, and music. Expect special guests, panels, workshops, and a bustling marketplace."
+  },
+  {
+    "id": 8,
+    "name": "TomoFair Amsterdam",
+    "location": {
+      "latitude": 52.3702,
+      "longitude": 4.8952,
+      "name": "RAI Amsterdam"
+    },
+    "description": "A convention celebrating anime, manga, and Japanese culture. Featuring screenings, workshops, cosplay contests, and a vibrant dealer's hall."
+  },
+  {
+    "id": 9,
+    "name": "TomoFair Rotterdam",
+    "location": {
+      "latitude": 51.9225,
+      "longitude": 4.4794,
+      "name": "Ahoy Rotterdam"
+    },
+    "description": "A convention celebrating anime, manga, and Japanese culture. Featuring screenings, workshops, cosplay contests, and a vibrant dealer's hall."
+  },
+  {
+    "id": 10,
+    "name": "TomoCon",
+    "location": {
+      "latitude": 52.0859,
+      "longitude": 5.1033,
+      "name": "Jaarbeurs Utrecht"
+    },
+    "description": "A convention dedicated to anime, manga, and Japanese culture. Featuring screenings, workshops, cosplay contests, and a vibrant dealer's hall."
+  },
+  {
+    "id": 11,
+    "name": "Castlefest",
+    "location": {
+      "latitude": 53.1902,
+      "longitude": 5.7684,
+      "name": "Prinsentuin Leeuwarden"
+    },
+    "description": "A medieval-themed festival with a focus on music, theatre, crafts, and historical reenactment. Expect elaborate costumes, live music, and a vibrant atmosphere."
+  },
+  {
+    "id": 12,
+    "name": "Viencon",
+    "location": {
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "name": "Reed Messe Wien"
+    },
+    "description": "A convention celebrating comics, games, fantasy, and science fiction. Featuring guest appearances, panels, workshops, and a vibrant marketplace."
+  },
+  {
+    "id": 13,
+    "name": "Ibaricon",
+    "location": {
+      "latitude": 52.0859,
+      "longitude": 5.1033,
+      "name": "Jaarbeurs Utrecht"
+    },
+    "description": "A convention dedicated to anime, manga, and Japanese culture. Featuring screenings, workshops, cosplay contests, and a vibrant dealer's hall."
+  }
+]
+
